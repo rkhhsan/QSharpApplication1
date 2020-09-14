@@ -6,6 +6,6 @@
     
     @EntryPoint()
     operation HelloQ () : Unit {
-        Message("Hello quantum world!");
+        Message("Hello quantum world! Viva Funciona !!!");
     }
 }
